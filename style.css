@@ -60,6 +60,10 @@ section> div> article > input{
     font-weight: bolder;
     box-shadow: 5px 2px 2px rgba(0, 0, 0, 0.555);
 }
+section> div> article > input:hover{
+    color: aliceblue;
+    background-color: rgb(226, 132, 218);
+}
 footer{
     float: right;
     margin-top: 25px;
